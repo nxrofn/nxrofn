@@ -27,4 +27,4 @@
 
 * **Email:** [Hello@nxrofn.com](mailto:Hello@nxrofn.com)
 * **Twitch:** [https://twitch.tv/Nxrofn](https://www.twitch.tv/nxrofn_)
-* **X / Twitter:** https://x.com/nxroo1x
+* **X / Twitter:** https://x.com/nxrobuilds
